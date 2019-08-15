@@ -19,7 +19,6 @@
         "resolve-url-loader": "^2.3.1",
         "sass": "^1.22.9",
         "sass-loader": "^7.1.0",
-        "tailwindcss": "^1.1.0",
         "vue": "^2.6.10",
         "vue-template-compiler": "^2.6.10"
     },
@@ -32,6 +31,7 @@
     "author": "Johannes Grießhammer",
     "license": "MIT",
     "dependencies": {
-        "node-sass": "^4.12.0"
+        "node-sass": "^4.12.0",
+        "tailwindcss": "^1.1.2"
     }
 }
