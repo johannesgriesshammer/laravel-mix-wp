@@ -16,11 +16,10 @@
         "cross-env": "^5.1",
         "laravel-mix": "^4.1.2",
         "lodash": "^4.17.15",
-        "node-sass": "^4.13.0",
         "resolve-url-loader": "^2.3.1",
         "sass": "^1.22.9",
         "sass-loader": "^7.1.0",
-        "tailwindcss": "^1.1.4",
+        "tailwindcss": "^1.2.0",
         "vue": "^2.6.10",
         "vue-template-compiler": "^2.6.10"
     },
@@ -32,5 +31,8 @@
     ],
     "author": "Johannes Grießhammer",
     "license": "MIT",
-    "dependencies": {}
+    "dependencies": {
+        "node-sass": "^4.13.1",
+        "save-dev": "0.0.1-security"
+    }
 }
