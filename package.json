@@ -34,7 +34,7 @@
     "author": "Johannes Grießhammer",
     "license": "MIT",
     "dependencies": {
-        "node-sass": "^5.0.0",
+        "node-sass": "^7.0.0",
         "tailwindcss": "^2.0.4"
     }
 }
